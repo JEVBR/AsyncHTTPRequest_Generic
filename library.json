@@ -44,8 +44,7 @@
     },
     {
       "owner": "jevbr",
-      "name": "ESPAsync_WiFiManager",
-      "version": ">=1.15.1",
+      "version": "https://github.com/jevbr/ESPAsync_WiFiManager",
       "platforms": ["espressif8266", "espressif32"]
     },
     {
