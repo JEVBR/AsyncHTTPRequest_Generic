@@ -43,7 +43,7 @@
       "platforms": "espressif8266"
     },
     {
-      "owner": "jevbr",
+      "name": "ESP Async WifiManager",
       "version": "https://github.com/jevbr/ESPAsync_WiFiManager",
       "platforms": ["espressif8266", "espressif32"]
     },
