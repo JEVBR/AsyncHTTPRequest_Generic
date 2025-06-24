@@ -1,4 +1,4 @@
-{
+r{
   "name":"AsyncHTTPRequest_Generic",
   "version": "1.13.0",
   "description":"Simple Async HTTP Request library, supporting GET, POST, PUT, PATCH, DELETE and HEAD, on top of AsyncTCP libraries, such as AsyncTCP, ESPAsyncTCP, AsyncTCP_STM32, etc.. for ESP32 (including ESP32_S2, ESP32_S3 and ESP32_C3), WT32_ETH01 (ESP32 + LAN8720), ESP32 with LwIP ENC28J60, W5500 or W6100, ESP8266 (WiFi, W5x00 or ENC28J60) and currently STM32 with LAN8720 or built-in LAN8742A Ethernet.",
@@ -43,7 +43,7 @@
       "platforms": "espressif8266"
     },
     {
-      "owner": "khoih-prog",
+      "owner": "jevbr",
       "name": "ESPAsync_WiFiManager",
       "version": ">=1.15.1",
       "platforms": ["espressif8266", "espressif32"]
